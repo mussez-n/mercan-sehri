@@ -1,6 +1,6 @@
 // Çevrimdışı oynamak için basit önbellek.
 // Önce ağdan dener (güncel kalır), ağ yoksa önbellekten açar.
-const CACHE = 'mercan-sehri-v1';
+const CACHE = 'mercan-sehri-v2';
 const FILES = [
   './', 'index.html', 'css/style.css', 'manifest.webmanifest',
   'js/data.js', 'js/avatar.js', 'js/scene.js', 'js/games.js', 'js/app.js',
