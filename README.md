@@ -3,6 +3,11 @@
 6–10 yaş için, tablet ve telefonda tarayıcıdan oynanan deniz kızı oyunu.
 Kurulum gerektirmez; "Ana Ekrana Ekle" ile uygulama gibi açılır (PWA).
 
+**Oyna:** https://mussez-n.github.io/mercan-sehri/
+
+Değişiklikleri yayınlamak için: `git add -A && git commit -m "..." && git push`
+(GitHub Pages 1–2 dakikada günceller).
+
 ## Oynanış
 - **Gardırop:** saç, saç rengi, kuyruk, kuyruk rengi, üst, makyaj, taç, kolye, göz, ten.
   Kilitli parçalar üç şekilde açılır: **inci** ile satın alma, **görev hediyesi**, **yıldız** sayısına ulaşma.
